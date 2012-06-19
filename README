@@ -1,0 +1,14 @@
+wiCar
+
+项目说明：
+基于NRF24L01，以Arduino作为主控，实现pc端控制遥控小车的方案。目前已能通过
+pc控制小车。有效控制距离在60m左右。
+
+基于开源的arduino和python，Qt的python开源实现PySide
+
+作者是xkong
+
+xiaokong1937@gmail.com
+
+
+
